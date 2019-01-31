@@ -100,6 +100,7 @@ def run_test_sum_powers_in_range():
     print('Test 1 expected:', expected)
     print('       actual:  ', answer)
 
+
 def sum_powers_in_range(m, n, p):
 
     total = 0
